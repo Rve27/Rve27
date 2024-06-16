@@ -1,2 +1,2 @@
-[![Rve27 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rve27&show_icon=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Rve27 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rve27&show_icon=true&rank_icon=github&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rve27&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
